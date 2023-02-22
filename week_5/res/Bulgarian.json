@@ -1,0 +1,461 @@
+[
+  {
+    "Title": "Two Figures",
+    "Artist": [
+      "Georges Papazoff"
+    ],
+    "ConstituentID": [
+      4492
+    ],
+    "ArtistBio": [
+      "Bulgarian, 1894\u20131972"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1894
+    ],
+    "EndDate": [
+      1972
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "1926",
+    "Medium": "Etching",
+    "Dimensions": "Plate 7 x 5 1/16\" (17.7 x 12.8 cm)",
+    "CreditLine": "Gift of Abby Aldrich Rockefeller",
+    "AccessionNumber": "186.1934",
+    "Classification": "Print",
+    "Department": "Drawings & Prints",
+    "DateAcquired": null,
+    "Cataloged": "N",
+    "ObjectID": 64001,
+    "URL": null,
+    "ThumbnailURL": null,
+    "Height (cm)": 17.7,
+    "Width (cm)": 12.8
+  },
+  {
+    "Title": "Three Figures",
+    "Artist": [
+      "Georges Papazoff"
+    ],
+    "ConstituentID": [
+      4492
+    ],
+    "ArtistBio": [
+      "Bulgarian, 1894\u20131972"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1894
+    ],
+    "EndDate": [
+      1972
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "1926",
+    "Medium": "Etching",
+    "Dimensions": "Plate 11/5/8 x 9 5/16\"",
+    "CreditLine": "Gift of Abby Aldrich Rockefeller",
+    "AccessionNumber": "187.1934",
+    "Classification": "Print",
+    "Department": "Drawings & Prints",
+    "DateAcquired": null,
+    "Cataloged": "N",
+    "ObjectID": 64015,
+    "URL": null,
+    "ThumbnailURL": null,
+    "Height (cm)": 29.5,
+    "Width (cm)": 23.7
+  },
+  {
+    "Title": "Head",
+    "Artist": [
+      "Georges Papazoff"
+    ],
+    "ConstituentID": [
+      4492
+    ],
+    "ArtistBio": [
+      "Bulgarian, 1894\u20131972"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1894
+    ],
+    "EndDate": [
+      1972
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "1926",
+    "Medium": "Etching",
+    "Dimensions": "Plate 7 5/8 x 5 15/16\" (19.4 x 15.1 cm)",
+    "CreditLine": "Gift of Abby Aldrich Rockefeller",
+    "AccessionNumber": "188.1934",
+    "Classification": "Print",
+    "Department": "Drawings & Prints",
+    "DateAcquired": null,
+    "Cataloged": "N",
+    "ObjectID": 64029,
+    "URL": null,
+    "ThumbnailURL": null,
+    "Height (cm)": 19.4,
+    "Width (cm)": 15.1
+  },
+  {
+    "Title": "From \"Miracles\" series #1",
+    "Artist": [
+      "Nedko Solakov"
+    ],
+    "ConstituentID": [
+      8494
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "2003",
+    "Medium": "Sepia, black and white ink, and wash on paper",
+    "Dimensions": "7 5/8 x 11 1/2\" (19.4 x 29.2 cm) (irreg)",
+    "CreditLine": "Purchase",
+    "AccessionNumber": "12.2004",
+    "Classification": "Drawing",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2004-02-10",
+    "Cataloged": "Y",
+    "ObjectID": 89362,
+    "URL": "http://www.moma.org/collection/works/89362",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjk1MTY0Il0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgMzAweDMwMFx1MDAzZSJdXQ.jpg?sha=bf25a45f968a7eb8",
+    "Height (cm)": 19.3675,
+    "Width (cm)": 29.2101
+  },
+  {
+    "Title": "From \"Miracles\" series #5",
+    "Artist": [
+      "Nedko Solakov"
+    ],
+    "ConstituentID": [
+      8494
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "2003",
+    "Medium": "Sepia, black and white ink, and wash on paper",
+    "Dimensions": "7 3/4 x 11 1/2\" (19.7 x 29.2 cm) (irreg)",
+    "CreditLine": "Purchase",
+    "AccessionNumber": "13.2004",
+    "Classification": "Drawing",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2004-02-10",
+    "Cataloged": "Y",
+    "ObjectID": 89363,
+    "URL": "http://www.moma.org/collection/works/89363",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjM0NzkwMiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=74e624fdcc762069",
+    "Height (cm)": 19.685,
+    "Width (cm)": 29.2101
+  },
+  {
+    "Title": "From \"Miracles\" series  #11",
+    "Artist": [
+      "Nedko Solakov"
+    ],
+    "ConstituentID": [
+      8494
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "2003",
+    "Medium": "Sepia, black and white ink, and wash on paper",
+    "Dimensions": "7 5/8 x 11 1/2\" (19.4 x 29.2 cm) (irreg)",
+    "CreditLine": "Purchase",
+    "AccessionNumber": "15.2004",
+    "Classification": "Drawing",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2004-02-10",
+    "Cataloged": "Y",
+    "ObjectID": 89364,
+    "URL": "http://www.moma.org/collection/works/89364",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjk1MTY3Il0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgMzAweDMwMFx1MDAzZSJdXQ.jpg?sha=08fb800fd7b153fa",
+    "Height (cm)": 19.3675,
+    "Width (cm)": 29.2101
+  },
+  {
+    "Title": "From \"Miracles\" series #7",
+    "Artist": [
+      "Nedko Solakov"
+    ],
+    "ConstituentID": [
+      8494
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "2003",
+    "Medium": "Sepia, black and white ink, and wash on paper",
+    "Dimensions": "7 5/8 x 11 1/2\" (19.4 x 29.2 cm) (irreg)",
+    "CreditLine": "Purchase",
+    "AccessionNumber": "14.2004",
+    "Classification": "Drawing",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2004-02-10",
+    "Cataloged": "Y",
+    "ObjectID": 89365,
+    "URL": "http://www.moma.org/collection/works/89365",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjM0NzkxMSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=ec2d2d16ad4ccb24",
+    "Height (cm)": 19.3675,
+    "Width (cm)": 29.2101
+  },
+  {
+    "Title": "Unfair Stories #1-12",
+    "Artist": [
+      "Nedko Solakov"
+    ],
+    "ConstituentID": [
+      8494
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "2003",
+    "Medium": "Ink and colored ink on twelve pieces of paper",
+    "Dimensions": "Each: 7 1/2 x 11 1/2\" (19.1 x 29.2 cm)",
+    "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+    "AccessionNumber": "3128.2005.a-l",
+    "Classification": "Drawing",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2005-05-10",
+    "Cataloged": "Y",
+    "ObjectID": 97428,
+    "URL": "http://www.moma.org/collection/works/97428",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjE0ODM0NSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=af370d96ede95ad2",
+    "Depth (cm)": 0.0,
+    "Height (cm)": 19.0500381001,
+    "Width (cm)": 29.2100584201
+  },
+  {
+    "Title": "Spooky Stories #1-9",
+    "Artist": [
+      "Nedko Solakov"
+    ],
+    "ConstituentID": [
+      8494
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "2003",
+    "Medium": "Ink and colored ink on nine pieces of paper",
+    "Dimensions": "Each: 7 1/2 x 11 1/4\" (19.1 x 28.6 cm)",
+    "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+    "AccessionNumber": "3127.2005.a-i",
+    "Classification": "Drawing",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2005-05-10",
+    "Cataloged": "Y",
+    "ObjectID": 97429,
+    "URL": "http://www.moma.org/collection/works/97429",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjEzMDAyMyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=c3cc6c2cbaf9e14c",
+    "Depth (cm)": 0.0,
+    "Height (cm)": 19.0500381001,
+    "Width (cm)": 28.5750571501
+  },
+  {
+    "Title": "Untitled from the Museum in Progress project Global Positions",
+    "Artist": [
+      "Luchezar Boyadjiev"
+    ],
+    "ConstituentID": [
+      30870
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1957"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1957
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "(newspapers published November 21, 2001 through December 18, 2001)",
+    "Medium": "Six lithographs, offset printed",
+    "Dimensions": "sheet (each): 18 1/2 x 12 3/8\" (47 x 31.5 cm)",
+    "CreditLine": "Linda Barth Goldstein Fund",
+    "AccessionNumber": "514.2006.190a-f",
+    "Classification": "Print",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2006-06-01",
+    "Cataloged": "N",
+    "ObjectID": 103483,
+    "URL": null,
+    "ThumbnailURL": null,
+    "Height (cm)": 47.0,
+    "Width (cm)": 31.5
+  },
+  {
+    "Title": "Untitled from the Museum in Progress project TransAct 2 - Linguistic Fields",
+    "Artist": [
+      "Kamen Stoyanov"
+    ],
+    "ConstituentID": [
+      31054
+    ],
+    "ArtistBio": [
+      "Bulgarian, born 1977"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1977
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "(newspaper published February 9/10, 2002)",
+    "Medium": "Three lithographs, offset printed",
+    "Dimensions": "sheet (each): 18 1/2 x 12 3/8\" (47 x 31.5 cm)",
+    "CreditLine": "Linda Barth Goldstein Fund",
+    "AccessionNumber": "514.2006.296a-c",
+    "Classification": "Print",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2006-06-01",
+    "Cataloged": "N",
+    "ObjectID": 103766,
+    "URL": null,
+    "ThumbnailURL": null,
+    "Height (cm)": 47.0,
+    "Width (cm)": 31.5
+  },
+  {
+    "Title": "Poster for Amaro Cora",
+    "Artist": [
+      "Nikolay Diulgheroff"
+    ],
+    "ConstituentID": [
+      69486
+    ],
+    "ArtistBio": [
+      "Bulgarian, 1901\u20131982"
+    ],
+    "Nationality": [
+      "Bulgarian"
+    ],
+    "BeginDate": [
+      1901
+    ],
+    "EndDate": [
+      1982
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "1928",
+    "Medium": "Lithograph",
+    "Dimensions": "78 \u00d7 55\" (198.1 \u00d7 139.7 cm)",
+    "CreditLine": "The Merrill C. Berman Collection. Lee Simonsen Bequest (by exchange)",
+    "AccessionNumber": "587.2018",
+    "Classification": "Design",
+    "Department": "Architecture & Design",
+    "DateAcquired": "2018-03-21",
+    "Cataloged": "Y",
+    "ObjectID": 220976,
+    "URL": "http://www.moma.org/collection/works/220976",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjQ0ODM3NiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=a72833543c924437",
+    "Depth (cm)": 0.0,
+    "Height (cm)": 198.1203962408,
+    "Width (cm)": 139.7002794006
+  }
+]

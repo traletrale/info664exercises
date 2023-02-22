@@ -1,0 +1,78 @@
+[
+  {
+    "Title": "Moscow",
+    "Artist": [
+      "Tofik Shakhverdiev"
+    ],
+    "ConstituentID": [
+      7013
+    ],
+    "ArtistBio": [
+      "Azerbaijani, born 1938"
+    ],
+    "Nationality": [
+      "Azerbaijani"
+    ],
+    "BeginDate": [
+      1938
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "c. 1989",
+    "Medium": "Gelatin silver print",
+    "Dimensions": "17 9/16 \u00d7 11 11/16\" (44.6 \u00d7 29.7 cm)",
+    "CreditLine": "Mr. and Mrs. Clark Winter Fund",
+    "AccessionNumber": "192.1992",
+    "Classification": "Photograph",
+    "Department": "Photography",
+    "DateAcquired": "1992-04-02",
+    "Cataloged": "Y",
+    "ObjectID": 48146,
+    "URL": "http://www.moma.org/collection/works/48146",
+    "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjI0MDA2OSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=c8bd1ceab71b6728",
+    "Height (cm)": 44.6,
+    "Width (cm)": 29.7
+  },
+  {
+    "Title": "Rejected (Zur\u00fcckgewiesen) from the Museum in Progress project TransAct: Transnational Activities in the Cultural Field",
+    "Artist": [
+      "Zeigam Azizov"
+    ],
+    "ConstituentID": [
+      30858
+    ],
+    "ArtistBio": [
+      "Azerbaijani, born 1963"
+    ],
+    "Nationality": [
+      "Azerbaijani"
+    ],
+    "BeginDate": [
+      1963
+    ],
+    "EndDate": [
+      0
+    ],
+    "Gender": [
+      "Male"
+    ],
+    "Date": "(newspaper published April 19, 2000)",
+    "Medium": "Lithograph, offset printed",
+    "Dimensions": "sheet: 18 1/2 x 12 3/8\" (47 x 31.5 cm)",
+    "CreditLine": "Linda Barth Goldstein Fund",
+    "AccessionNumber": "514.2006.214",
+    "Classification": "Print",
+    "Department": "Drawings & Prints",
+    "DateAcquired": "2006-06-01",
+    "Cataloged": "N",
+    "ObjectID": 103459,
+    "URL": null,
+    "ThumbnailURL": null,
+    "Height (cm)": 47.0,
+    "Width (cm)": 31.5
+  }
+]
